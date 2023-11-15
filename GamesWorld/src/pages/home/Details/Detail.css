@@ -1,0 +1,13 @@
+#inputKomen::placeholder {
+  color: white;
+  /* Atur properti lain sesuai keinginan Anda */
+}
+
+.judul {
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+hr {
+  color: white;
+}

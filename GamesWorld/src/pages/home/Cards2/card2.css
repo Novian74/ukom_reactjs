@@ -1,0 +1,25 @@
+
+.title1 {
+  font-size: 30px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.game {
+  width: 205px;
+}
+
+.card-text {
+  font-size: 12px;
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+.cards{
+  background-color: #27293d;
+  width: 13rem;
+}
+
+
